@@ -28,7 +28,7 @@ This project implements a complete sign-in and sign-up system with Node.js, Expr
 
 **Connect with me!**
 
-* [My portfolio](https://serrato.dev/)
+* [My portfolio](https://serrato.me/)
 * [LinkedIn](https://www.linkedin.com/in/angel-serrato/)
 
 Thanks for visiting my profile! ✨
